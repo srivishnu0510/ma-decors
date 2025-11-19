@@ -1,3 +1,5 @@
+Git-Based Version Control Workflow for M A Decorators
+
 This repository contains a complete demonstration of an industry-standard Git workflow used for managing the website project of M A Decorators.
 It includes branching strategies, Pull Requests, merge conflict handling, release management, and documentation—exactly like real software companies work.
 
